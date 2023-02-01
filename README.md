@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello There, the name's Watchamacall
+#I'm a Programmer graduating with a BSc in Computing for Games
+#My Skills include:
+<!-- Skill Images here -->
+
 
 <!--
 **Watchamacall/Watchamacall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
