@@ -1,6 +1,6 @@
 ### Hello There, the name's Watchamacall
-#I'm a Programmer graduating with a BSc in Computing for Games
-#My Skills include:
+# I'm a Programmer graduating with a BSc in Computing for Games
+# My Skills include:
 <!-- Skill Images here -->
 
 
